@@ -36,14 +36,16 @@
   .page.active { display: block; }
 
   /* HERO */
-  .hero { max-width: 1100px; margin: 0 auto; padding: 5rem 2rem 3rem; }
+  .hero { position: relative; background-image: url('imagenes/imagen-principal.jpg'); background-size: cover; background-position: center; padding: 7rem 2rem 5rem; }
+  .hero::before { content: ''; position: absolute; inset: 0; background: rgba(10, 20, 40, 0.65); }
+  .hero > * { position: relative; z-index: 1; }
   .hero-label { font-size: 0.78rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold); margin-bottom: 1rem; }
-  .hero h1 { font-family: var(--font-serif); font-size: clamp(2rem, 5vw, 3.2rem); font-weight: normal; line-height: 1.25; color: var(--text); max-width: 700px; margin-bottom: 1.5rem; }
-  .hero p { color: var(--muted); max-width: 580px; font-size: 1.05rem; margin-bottom: 2.5rem; }
+  .hero h1 { font-family: var(--font-serif); font-size: clamp(2rem, 5vw, 3.2rem); font-weight: normal; line-height: 1.25; color: #fff; max-width: 700px; margin-bottom: 1.5rem; }
+  .hero p { color: rgba(255,255,255,0.8); max-width: 580px; font-size: 1.05rem; margin-bottom: 2.5rem; }
   .btn { display: inline-block; padding: 0.75rem 1.8rem; background: var(--accent); color: #fff; text-decoration: none; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; transition: background 0.2s; cursor: pointer; border: none; }
   .btn:hover { background: #1e3560; }
-  .btn-ghost { background: transparent; border: 1px solid var(--accent); color: var(--accent); margin-left: 1rem; }
-  .btn-ghost:hover { background: var(--accent-light); }
+  .btn-ghost { background: transparent; border: 1px solid rgba(255,255,255,0.6); color: #fff; margin-left: 1rem; }
+  .btn-ghost:hover { background: rgba(255,255,255,0.1); }
 
   /* DIVIDER */
   .divider { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
@@ -147,11 +149,13 @@
 <!-- HOME -->
 <div class="page active" id="page-home">
   <section class="hero">
-    <div class="hero-label">Teología · Reflexión Académica</div>
-    <h1>Haciendo teología en el continente digital</h1>
-    <p>Un espacio dedicado a la divulgación teológica a partir de la reflexión académica.</p>
-    <button class="btn" onclick="showPage('articles')">Explorar artículos</button>
-    <button class="btn btn-ghost" onclick="showPage('about')">Sobre el proyecto</button>
+    <div style="max-width:1100px;margin:0 auto;">
+      <div class="hero-label">Teología · Reflexión Académica</div>
+      <h1>Haciendo teología en el continente digital</h1>
+      <p>Un espacio dedicado a la divulgación teológica a partir de la reflexión académica.</p>
+      <button class="btn" onclick="showPage('articles')">Explorar artículos</button>
+      <button class="btn btn-ghost" onclick="showPage('about')">Sobre el proyecto</button>
+    </div>
   </section>
   <div class="divider"><hr></div>
   <div class="divider"><hr></div>
@@ -355,4 +359,5 @@ renderCards('articles-grid', articles);
 </script>
 </body>
 </html>
+
 
