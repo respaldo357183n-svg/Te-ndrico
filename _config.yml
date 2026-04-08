@@ -17,6 +17,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-include-cache
 
 paginate: 5
 paginate_path: "/articulos/page:num/"
@@ -24,3 +25,4 @@ paginate_path: "/articulos/page:num/"
 permalink: /articulos/:title/
 
 remote_theme: mmistakes/minimal-mistakes
+
