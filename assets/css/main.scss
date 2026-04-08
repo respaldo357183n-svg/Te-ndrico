@@ -55,3 +55,34 @@ h1, h2, h3, h4 {
 .page__footer {
   background-color: #1a1a1a;
 }
+
+/* Eliminar azules de Minimal Mistakes */
+.btn--primary,
+.btn--inverse {
+  background-color: #f5c842 !important;
+  color: #1a1a1a !important;
+  border-color: #f5c842 !important;
+}
+
+.pagination--pager {
+  background-color: #f5c842 !important;
+  color: #1a1a1a !important;
+  border-color: #f5c842 !important;
+}
+
+.nav__list .active {
+  background-color: #f5c842 !important;
+  color: #1a1a1a !important;
+}
+
+a {
+  color: #1a1a1a !important;
+}
+
+a:hover {
+  color: #f5c842 !important;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #f5c842 !important;
+}
