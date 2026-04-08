@@ -93,3 +93,16 @@ blockquote {
   background-color: #f9f9f9;
   color: #1a1a1a;
 }
+/* Hover del menú en dorado */
+.greedy-nav .visible-links a:before {
+  background: #f5c842 !important;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: #f5c842 !important;
+}
+
+/* Borde citas en dorado */
+blockquote {
+  border-left-color: #f5c842 !important;
+}
