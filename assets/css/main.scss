@@ -86,3 +86,10 @@ a:hover {
 .greedy-nav .visible-links a:before {
   background: #f5c842 !important;
 }
+
+/* Citas en dorado */
+blockquote {
+  border-left: 4px solid #f5c842 !important;
+  background-color: #f9f9f9;
+  color: #1a1a1a;
+}
