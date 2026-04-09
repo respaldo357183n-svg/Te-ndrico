@@ -118,3 +118,8 @@ blockquote {
   background-color: #1a1a1a !important;
   color: #f5c842 !important;
 }
+
+/* Quitar sombra de texto en botones */
+.page__hero--overlay .btn {
+  text-shadow: none !important;
+}
