@@ -177,3 +177,15 @@ button.greedy-nav__toggle {
 .navicon::after {
   background: #1a1a1a !important;
 }
+/* Ocultar texto del sitio */
+a.site-title {
+  visibility: hidden !important;
+  width: 0 !important;
+  overflow: hidden !important;
+  display: inline-block !important;
+}
+
+a.site-title img {
+  visibility: visible !important;
+  width: auto !important;
+}
