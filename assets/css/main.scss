@@ -87,3 +87,34 @@ blockquote {
 .page__footer a {
   color: #f5c842 !important;
 }
+
+/* Hero - título más legible */
+.page__hero--overlay .page__title {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.9) !important;
+  color: #ffffff !important;
+  font-size: 2.5rem !important;
+}
+
+.page__hero--overlay .page__lead {
+  text-shadow: 1px 1px 6px rgba(0,0,0,0.9) !important;
+  color: #ffffff !important;
+  font-size: 1.2rem !important;
+}
+
+/* Botones del hero */
+.page__hero--overlay .btn {
+  background-color: #f5c842 !important;
+  color: #1a1a1a !important;
+  border: none !important;
+  border-radius: 0 !important;
+  font-weight: bold !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+  font-size: 0.85rem !important;
+  padding: 0.75rem 1.8rem !important;
+}
+
+.page__hero--overlay .btn:hover {
+  background-color: #1a1a1a !important;
+  color: #f5c842 !important;
+}
