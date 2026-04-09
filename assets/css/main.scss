@@ -131,3 +131,28 @@ blockquote {
 .page__hero--overlay .page__lead {
   text-shadow: none !important;
 }
+
+/* Menú hamburguesa en negro */
+.greedy-nav button {
+  color: #1a1a1a !important;
+}
+
+.greedy-nav button:hover {
+  color: #f5c842 !important;
+}
+
+.greedy-nav__toggle-close,
+.greedy-nav__toggle-open {
+  fill: #1a1a1a !important;
+  color: #1a1a1a !important;
+}
+
+/* Botones del hero del mismo ancho en móvil */
+@media (max-width: 640px) {
+  .page__hero--overlay .btn {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    margin-bottom: 0.5rem !important;
+  }
+}
