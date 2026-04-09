@@ -123,3 +123,11 @@ blockquote {
 .page__hero--overlay .btn {
   text-shadow: none !important;
 }
+/* Quitar sombra del título */
+.page__hero--overlay .page__title {
+  text-shadow: none !important;
+}
+
+.page__hero--overlay .page__lead {
+  text-shadow: none !important;
+}
