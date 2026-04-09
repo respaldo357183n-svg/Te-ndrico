@@ -189,3 +189,11 @@ a.site-title img {
   visibility: visible !important;
   width: auto !important;
 }
+/* Ocultar texto del título dejando solo el logo */
+a.site-title {
+  font-size: 0 !important;
+}
+
+a.site-title img {
+  font-size: 1rem !important;
+}
