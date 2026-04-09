@@ -51,16 +51,3 @@ defaults:
       show_date: true
       teaser: /imagenes/articulo-henoteismo.jpg
 
-/* Ocultar texto del título y mostrar solo el logo */
-.site-title span {
-  display: none !important;
-}
-/* Ocultar texto y mostrar solo logo */
-.masthead .site-title {
-  font-size: 0 !important;
-  color: transparent !important;
-}
-
-.masthead .site-logo {
-  display: block !important;
-}
