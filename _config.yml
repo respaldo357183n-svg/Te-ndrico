@@ -41,3 +41,11 @@ navigation:
 
 archive:
   type: grid
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      teaser: /imagenes/articulo-henoteismo.jpg
