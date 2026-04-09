@@ -156,3 +156,24 @@ blockquote {
     margin-bottom: 0.5rem !important;
   }
 }
+/* Menú hamburguesa - todas las variantes */
+button.greedy-nav__toggle {
+  color: #1a1a1a !important;
+  background: transparent !important;
+  border: none !important;
+}
+
+.greedy-nav__toggle svg {
+  fill: #1a1a1a !important;
+  color: #1a1a1a !important;
+}
+
+.greedy-nav__toggle:hover svg {
+  fill: #f5c842 !important;
+}
+
+.navicon,
+.navicon::before,
+.navicon::after {
+  background: #1a1a1a !important;
+}
