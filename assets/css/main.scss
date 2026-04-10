@@ -36,6 +36,12 @@ a:hover, a:focus {
 .masthead {
   background-color: #ffffff !important;
   border-bottom: 2px solid #f5c842 !important;
+  height: 130px !important;
+}
+
+.masthead__inner-wrap {
+  padding: 0 1rem !important;
+  height: 130px !important;
 }
 
 .greedy-nav {
@@ -54,11 +60,29 @@ a:hover, a:focus {
   background: #f5c842 !important;
 }
 
-/* Menú compacto */
 .greedy-nav .visible-links a {
   font-size: 0.78rem !important;
   padding: 0.5rem 0.6rem !important;
   letter-spacing: 0.03em !important;
+}
+
+/* Logo */
+a.site-title {
+  visibility: hidden !important;
+  width: 0 !important;
+  overflow: hidden !important;
+  display: inline-block !important;
+}
+
+a.site-title img {
+  visibility: visible !important;
+  width: auto !important;
+}
+
+.site-logo img {
+  max-height: 120px !important;
+  width: auto !important;
+  height: 120px !important;
 }
 
 /* Citas */
@@ -153,27 +177,6 @@ button.greedy-nav__toggle {
   background: #1a1a1a !important;
 }
 
-/* Ocultar texto del sitio */
-a.site-title {
-  visibility: hidden !important;
-  width: 0 !important;
-  overflow: hidden !important;
-  display: inline-block !important;
-}
-
-a.site-title img {
-  visibility: visible !important;
-  width: auto !important;
-}
-
-/* Logo */
-.site-logo img {
-  max-height: 120px !important;
-  width: auto !important;
-  height: 120px !important;
-
-}
-
 /* Foto del autor redonda */
 .author__avatar img {
   width: 110px !important;
@@ -187,42 +190,4 @@ a.site-title img {
   display: none !important;
 }
 
-.author__urls {
-  display: block !important;
-}
-
-/* Mostrar descripción en tarjetas en móvil */
-@media (max-width: 640px) {
-  .archive__item-excerpt {
-    display: block !important;
-    font-size: 0.85rem;
-    margin-top: 0.5rem;
-  }
-
-  .page__hero--overlay .btn {
-    display: block !important;
-    width: 100% !important;
-    text-align: center !important;
-    margin-bottom: 0.5rem !important;
-  }
-}
-
-/* Masthead compacto */
-.masthead__inner-wrap {
-  padding: 0 1rem !important;
-  height: 130px !important;
-}
-
-.masthead {
-  height: 130px !important;
-}
-
-/* Masthead compacto */
-.masthead__inner-wrap {
-  padding: 0 1rem !important;
-  height: 130px !important;
-}
-
-.masthead {
-  height: 130px !important;
-}
+.author__urls
