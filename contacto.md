@@ -2,7 +2,7 @@
 title: "Contacto"
 layout: single
 permalink: /contacto/
-author_profile: false
+author_profile: true
 ---
 
 ¿Tienes preguntas, sugerencias o deseas colaborar con un artículo? Escríbenos, con gusto te respondemos.
