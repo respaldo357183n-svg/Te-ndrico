@@ -197,4 +197,10 @@ a.site-title img {
     text-align: center !important;
     margin-bottom: 0.5rem !important;
   }
+
+/* Menú compacto para que quepan todos los enlaces */
+.greedy-nav .visible-links a {
+  font-size: 0.78rem !important;
+  padding: 0.5rem 0.6rem !important;
+  letter-spacing: 0.03em !important;
 }
