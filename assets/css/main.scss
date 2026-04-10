@@ -231,3 +231,13 @@ a.site-title img {
   display: block !important;
   visibility: visible !important;
 }
+
+/* Reducir tamaño del menú para que quepan todos los enlaces */
+.greedy-nav .visible-links a {
+  font-size: 0.75rem !important;
+  padding: 0.5rem 0.5rem !important;
+}
+
+.greedy-nav {
+  gap: 0 !important;
+}
