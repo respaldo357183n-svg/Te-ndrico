@@ -232,13 +232,20 @@ a.site-title img {
   visibility: visible !important;
 }
 
-/* Menú compacto */
-.greedy-nav .visible-links {
-  gap: 0 !important;
+/* Ampliar área del menú */
+.masthead__inner-wrap {
+  max-width: 100% !important;
+  padding: 0 1rem !important;
 }
 
 .greedy-nav .visible-links a {
-  font-size: 0.7rem !important;
-  padding: 0.3rem 0.4rem !important;
-  letter-spacing: 0 !important;
+  font-size: 0.72rem !important;
+  padding: 0.25rem 0.4rem !important;
+  letter-spacing: 0.02em !important;
+  text-transform: none !important;
+}
+
+.site-logo img {
+  max-height: 60px !important;
+  height: 60px !important;
 }
