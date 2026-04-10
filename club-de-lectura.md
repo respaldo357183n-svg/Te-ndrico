@@ -8,8 +8,9 @@ author_profile: false
 ## Jesús: Aproximación histórica
 ### José Antonio Pagola
 
-Estamos leyendo juntos una de las obras más rigurosas y apasionantes sobre el Jesús histórico. Únete a nuestro grupo de WhatsApp o servidor en Discord para participar en los conversatorios.
+Estamos leyendo juntos una de las obras más rigurosas y apasionantes sobre el Jesús histórico. Únete a nuestro grupo de WhatsApp y servidor en Discord para participar en los conversatorios.
 
-[🟢 Unirse por WhatsApp](https://chat.whatsapp.com/JzV3pXCWawdCIChshMF4Bv){: .btn .btn--success target="_blank"}
-
-[🔵 Unirse por Discord](TU_ENLACE_DE_DISCORD){: .btn .btn--primary target="_blank"}
+<div style="margin-top:2rem;">
+<a href="https://chat.whatsapp.com/JzV3pXCWawdCIChshMF4Bv" target="_blank" style="display:inline-block;padding:0.75rem 1.6rem;background:#25D366;color:#fff;text-decoration:none;font-weight:bold;margin-right:1rem;margin-bottom:1rem;border-radius:4px;">WhatsApp</a>
+<a href="https://discord.gg/M8XGStBe" target="_blank" style="display:inline-block;padding:0.75rem 1.6rem;background:#5865F2;color:#fff;text-decoration:none;font-weight:bold;border-radius:4px;">Discord</a>
+</div>
