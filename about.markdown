@@ -2,7 +2,7 @@
 title: "Sobre el proyecto"
 layout: single
 permalink: /sobre-el-proyecto/
-author_profile: false
+author_profile: true
 ---
 
 > "Credo ut intelligam — creo para entender. Intelligam ut credam — entiendo para creer." — San Anselmo de Canterbury
