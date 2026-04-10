@@ -58,3 +58,6 @@ share: true
 tag_archive:
   type: liquid
   path: /tags/
+
+search: true
+search_full_content: true
