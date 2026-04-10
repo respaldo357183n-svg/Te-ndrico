@@ -45,9 +45,10 @@ defaults:
       path: ""
       type: posts
     values:
-      author_profile: true
+      author_profile: false
       show_date: true
       share: true
+      show_tags: true
       teaser: /imagenes/artículo-henoteismo.jpg
 
 favicon: /favicon-teandrico.png
