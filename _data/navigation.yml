@@ -1,11 +1,9 @@
 main:
-  - title: "INICIO"
-    url: /
-  - title: "ARTÍCULOS"
+  - title: "Artículos"
     url: /articulos/
-  - title: "CLUB DE LECTURA"
+  - title: "Club de Lectura"
     url: /club-de-lectura/
-  - title: "SOBRE EL PROYECTO"
+  - title: "Sobre el Proyecto"
     url: /sobre-el-proyecto/
-  - title: "CONTACTO"
+  - title: "Contacto"
     url: /contacto/
