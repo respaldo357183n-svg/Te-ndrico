@@ -1,7 +1,7 @@
 main:
   - title: "INICIO"
     url: /
-  - title: "ARTÍULOS"
+  - title: "ARTÍCULOS"
     url: /articulos/
   - title: "CLUB DE LECTURA"
     url: /club-de-lectura/
