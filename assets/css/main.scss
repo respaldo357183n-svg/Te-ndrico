@@ -216,3 +216,12 @@ a.site-title img {
   border-radius: 50% !important;
   object-fit: cover !important;
 }
+
+/* Quitar botón Follow */
+.author__urls-wrapper button {
+  display: none !important;
+}
+
+.author__urls {
+  display: block !important;
+}
