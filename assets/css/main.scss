@@ -209,3 +209,21 @@ img.u-photo {
     margin-bottom: 0.5rem !important;
   }
 }
+
+/* Logo más grande en móvil */
+@media (max-width: 640px) {
+  .site-logo img {
+    height: 50px !important;
+    max-height: 50px !important;
+  }
+}
+
+/* Lupa en negro */
+.search__toggle {
+  color: #1a1a1a !important;
+}
+
+.search__toggle svg {
+  fill: #1a1a1a !important;
+  color: #1a1a1a !important;
+}
