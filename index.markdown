@@ -1,6 +1,6 @@
 ---
 layout: archive
-author_profile: false
+author_profile: true
 classes: wide
 header:
   overlay_image: /imagenes/imagen-principal.jpg
