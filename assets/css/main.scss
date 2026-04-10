@@ -54,6 +54,26 @@ a:hover, a:focus {
   background: #f5c842 !important;
 }
 
+/* Logo */
+a.site-title {
+  visibility: hidden !important;
+  width: 0 !important;
+  overflow: hidden !important;
+  display: inline-block !important;
+}
+
+a.site-title img {
+  visibility: visible !important;
+  width: auto !important;
+}
+
+.site-logo img {
+  height: 60px !important;
+  width: auto !important;
+  max-height: 60px !important;
+  object-fit: contain !important;
+}
+
 /* Citas */
 blockquote {
   border-left: 4px solid #f5c842 !important;
@@ -78,6 +98,12 @@ blockquote {
   color: #1a1a1a !important;
 }
 
+/* Botones Club de Lectura */
+.page__content a[href*="whatsapp"],
+.page__content a[href*="discord"] {
+  color: #ffffff !important;
+}
+
 /* Pie de página */
 .page__footer {
   background-color: #1a1a1a !important;
@@ -88,20 +114,19 @@ blockquote {
   color: #f5c842 !important;
 }
 
-/* Hero - título más legible */
+/* Hero */
 .page__hero--overlay .page__title {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.9) !important;
+  text-shadow: none !important;
   color: #ffffff !important;
   font-size: 2.5rem !important;
 }
 
 .page__hero--overlay .page__lead {
-  text-shadow: 1px 1px 6px rgba(0,0,0,0.9) !important;
+  text-shadow: none !important;
   color: #ffffff !important;
   font-size: 1.2rem !important;
 }
 
-/* Botones del hero */
 .page__hero--overlay .btn {
   background-color: #f5c842 !important;
   color: #1a1a1a !important;
@@ -112,6 +137,7 @@ blockquote {
   text-transform: uppercase !important;
   font-size: 0.85rem !important;
   padding: 0.75rem 1.8rem !important;
+  text-shadow: none !important;
 }
 
 .page__hero--overlay .btn:hover {
@@ -119,44 +145,7 @@ blockquote {
   color: #f5c842 !important;
 }
 
-/* Quitar sombra de texto en botones */
-.page__hero--overlay .btn {
-  text-shadow: none !important;
-}
-/* Quitar sombra del título */
-.page__hero--overlay .page__title {
-  text-shadow: none !important;
-}
-
-.page__hero--overlay .page__lead {
-  text-shadow: none !important;
-}
-
-/* Menú hamburguesa en negro */
-.greedy-nav button {
-  color: #1a1a1a !important;
-}
-
-.greedy-nav button:hover {
-  color: #f5c842 !important;
-}
-
-.greedy-nav__toggle-close,
-.greedy-nav__toggle-open {
-  fill: #1a1a1a !important;
-  color: #1a1a1a !important;
-}
-
-/* Botones del hero del mismo ancho en móvil */
-@media (max-width: 640px) {
-  .page__hero--overlay .btn {
-    display: block !important;
-    width: 100% !important;
-    text-align: center !important;
-    margin-bottom: 0.5rem !important;
-  }
-}
-/* Menú hamburguesa - todas las variantes */
+/* Menú hamburguesa */
 button.greedy-nav__toggle {
   color: #1a1a1a !important;
   background: transparent !important;
@@ -165,7 +154,6 @@ button.greedy-nav__toggle {
 
 .greedy-nav__toggle svg {
   fill: #1a1a1a !important;
-  color: #1a1a1a !important;
 }
 
 .greedy-nav__toggle:hover svg {
@@ -177,44 +165,18 @@ button.greedy-nav__toggle {
 .navicon::after {
   background: #1a1a1a !important;
 }
-/* Ocultar texto del sitio */
-a.site-title {
-  visibility: hidden !important;
-  width: 0 !important;
-  overflow: hidden !important;
-  display: inline-block !important;
-}
 
-a.site-title img {
-  visibility: visible !important;
-  width: auto !important;
-}
-
-/* Tamaño del logo */
-.site-logo img {
-  max-height: 150px !important;
-  width: auto !important;
-  height: 150px !important;
-}
-/* Botones Club de Lectura */
-.page__content a[href*="whatsapp"],
-.page__content a[href*="discord"] {
-  color: #ffffff !important;
-}
-/* Mostrar descripción en tarjetas en móvil */
-@media (max-width: 640px) {
-  .archive__item-excerpt {
-    display: block !important;
-    font-size: 0.85rem;
-    margin-top: 0.5rem;
-  }
-}
 /* Foto del autor redonda */
-.author__avatar img {
+img.u-photo {
   width: 110px !important;
   height: 110px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
+}
+
+.author__avatar {
+  border-radius: 50% !important;
+  overflow: hidden !important;
 }
 
 /* Quitar botón Follow */
@@ -232,30 +194,18 @@ a.site-title img {
   visibility: visible !important;
 }
 
-/* Ampliar área del menú */
-.masthead__inner-wrap {
-  max-width: 100% !important;
-  padding: 0 1rem !important;
-}
-
-.greedy-nav .visible-links a {
-  font-size: 0.72rem !important;
-  padding: 0.25rem 0.4rem !important;
-  letter-spacing: 0.02em !important;
-  text-transform: none !important;
-}
-
-.site-logo img {
-  max-height: 60px !important;
-  height: 60px !important;
-}
-
-/* Logo correcto en móvil */
+/* Mostrar descripción en tarjetas en móvil */
 @media (max-width: 640px) {
-  .site-logo img {
-    max-height: 60px !important;
-    height: 60px !important;
-    width: auto !important;
-    object-fit: contain !important;
+  .archive__item-excerpt {
+    display: block !important;
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+  }
+
+  .page__hero--overlay .btn {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    margin-bottom: 0.5rem !important;
   }
 }
