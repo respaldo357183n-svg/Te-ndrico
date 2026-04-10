@@ -210,6 +210,10 @@ a.site-title img {
   }
 }
 /* Foto del autor redonda */
-.author__avatar img {
+.author__avatar img,
+img.author__avatar {
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
   border-radius: 50% !important;
+  max-width: 110px !important;
 }
