@@ -201,3 +201,11 @@ a.site-title img {
 .page__content a[href*="discord"] {
   color: #ffffff !important;
 }
+/* Mostrar descripción en tarjetas en móvil */
+@media (max-width: 640px) {
+  .archive__item-excerpt {
+    display: block !important;
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+  }
+}
