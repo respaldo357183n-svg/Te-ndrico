@@ -196,3 +196,8 @@ a.site-title img {
   width: auto !important;
   height: 150px !important;
 }
+/* Botones Club de Lectura */
+.page__content a[href*="whatsapp"],
+.page__content a[href*="discord"] {
+  color: #ffffff !important;
+}
