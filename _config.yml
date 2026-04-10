@@ -5,6 +5,7 @@ description: "Un espacio dedicado a la divulgación teológica a partir de la re
 url: "https://teandrico.com"
 baseurl: ""
 lang: "es"
+locale: "es-ES"
 # theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
 
