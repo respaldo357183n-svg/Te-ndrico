@@ -2,7 +2,7 @@
 title: "Club de Lectura"
 layout: single
 permalink: /club-de-lectura/
-author_profile: false
+author_profile: true
 ---
 
 <div style="display:flex;gap:2rem;align-items:flex-start;flex-wrap:wrap;margin-top:1rem;">
