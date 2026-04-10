@@ -2,7 +2,7 @@
 title: "Artículos"
 layout: archive
 permalink: /articulos/
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
