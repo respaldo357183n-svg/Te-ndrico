@@ -9,7 +9,7 @@ excerpt: "Una exploración de la evolución religiosa del pueblo de Israel, desd
 layout: single
 author_profile: false
 header:
-  teaser: /imagenes/articulo-henoteismo.jpg
+  teaser: /imagenes/foto-articulo-henoteismo-2.jpg
 ---
 ![Henoteísmo](/imagenes/articulo-henoteismo.jpg)
 ## Desde la experiencia numinosa hacia la creencia en Dios
