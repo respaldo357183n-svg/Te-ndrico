@@ -16,6 +16,8 @@ header:
 ![El ejército de los gigantes](/imagenes/foto-articulo-mitologia-israel.jpg)
 *El ejército de los gigantes, derrotado por el ejército del rey David. Miniatura del «Codex de l'Octateuque du Serail» (siglo XII), autor desconocido. Topkapi Sarayi Muzesi Kutuphanesi (Biblioteca), Estambul, Turquía. © Bridgeman Images.*
 
+<p style="font-size:0.85rem;color:#6b6b6b;border-left:3px solid #f5c842;padding-left:0.8rem;margin-bottom:2rem;">Por <strong>Estiben Álvarez</strong></p>
+
 ## Introducción
 
 Lo que conocen los cristianos como Antiguo Testamento y los judíos como Biblia Hebrea es un documento imprescindible y de importancia fundamental para la constitución de ambas religiones. De hecho, por esta razón se habla de que la fe que caracteriza a occidente es judeocristiana, dado que las raíces del cristianismo están en el judaísmo, y no es posible entender la estructura religiosa que aparece con el legado de Jesús aislada de la historia del pueblo de Israel.
