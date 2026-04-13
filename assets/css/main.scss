@@ -254,3 +254,10 @@ button.greedy-nav__toggle {
     width: 100% !important;
   }
 }
+
+/* Barra de búsqueda */
+#buscador:focus {
+  border-color: #f5c842 !important;
+  box-shadow: 0 0 0 2px rgba(245, 200, 66, 0.3) !important;
+  outline: none !important;
+}
