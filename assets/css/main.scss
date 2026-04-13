@@ -239,14 +239,18 @@ button.greedy-nav__toggle {
   color: #1a1a1a !important;
 }
 
-/* Lista de artículos compacta en móvil */
+/* Lista de artículos en móvil */
 @media (max-width: 640px) {
-  #archive-list-custom > div {
+  .article-list-item {
     flex-direction: column !important;
   }
 
-  #archive-list-custom img {
+  .article-list-item img {
     width: 100% !important;
     height: 180px !important;
+  }
+
+  .article-list-item a[style*="flex-shrink"] {
+    width: 100% !important;
   }
 }
