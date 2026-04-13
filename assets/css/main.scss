@@ -238,3 +238,15 @@ button.greedy-nav__toggle {
 #carrusel ~ button {
   color: #1a1a1a !important;
 }
+
+/* Lista de artículos compacta en móvil */
+@media (max-width: 640px) {
+  #archive-list-custom > div {
+    flex-direction: column !important;
+  }
+
+  #archive-list-custom img {
+    width: 100% !important;
+    height: 180px !important;
+  }
+}
