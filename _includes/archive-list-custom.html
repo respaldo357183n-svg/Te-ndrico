@@ -1,4 +1,5 @@
-{% for post in site.posts %}
+{% assign posts_sorted = site.posts | sort: 'date' | reverse %}
+{% for post in posts_sorted %}
 <div class="article-list-item" style="display:flex;gap:1.5rem;align-items:flex-start;margin-bottom:2rem;padding:1.5rem;background:#ffffff;border:1px solid #e5e5e0;transition:box-shadow 0.2s;">
   {% if post.header.teaser %}
   <a href="{{ post.url }}" style="flex-shrink:0;">
