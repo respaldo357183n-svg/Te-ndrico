@@ -233,3 +233,8 @@ button.greedy-nav__toggle {
     height: 180px !important;
   }
 }
+
+/* Flechas del carrusel */
+#carrusel ~ button {
+  color: #1a1a1a !important;
+}
