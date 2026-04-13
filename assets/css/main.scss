@@ -209,3 +209,15 @@ button.greedy-nav__toggle {
     margin-bottom: 0.5rem !important;
   }
 }
+
+/* Mostrar imagen teaser en lista de artículos */
+.list__item .archive__item-teaser {
+  display: block !important;
+  max-height: 150px !important;
+  overflow: hidden !important;
+}
+
+.list__item .archive__item-teaser img {
+  width: 100% !important;
+  object-fit: cover !important;
+}
