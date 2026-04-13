@@ -1,4 +1,5 @@
 ---
+*Por Estiben Álvarez*
 title: "Henoteísmo: pensamientos acerca del Israel premonoteísta"
 date: 2026-04-05
 categories: [Teología Bíblica]
