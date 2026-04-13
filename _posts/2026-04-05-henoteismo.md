@@ -1,5 +1,4 @@
 ---
-*Por Estiben Álvarez*
 title: "Henoteísmo: pensamientos acerca del Israel premonoteísta"
 date: 2026-04-05
 categories: [Teología Bíblica]
@@ -12,6 +11,7 @@ author_profile: true
 header:
   teaser: /imagenes/foto-articulo-henoteismo-2.jpg
 ---
+*Por Estiben Álvarez*
 ![Henoteísmo](/imagenes/foto-articulo-henoteismo-2.jpg)
 ## Desde la experiencia numinosa hacia la creencia en Dios
 
