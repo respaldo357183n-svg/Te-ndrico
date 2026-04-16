@@ -81,7 +81,7 @@ El primer teólogo cristiano que partió en su reflexión desde la premisa de un
 
 — En este momento, ni tú ni yo somos poetas sino fundadores de un Estado. Y a los fundadores de un Estado corresponde conocer las pautas según las cuales los poetas deben forjar los mitos y de las cuales no deben apartarse sus creaciones; mas no corresponde a dichos fundadores componer mitos. —Correcto —dijo—, pero precisamente en relación con este mismo punto: ¿cuáles serían estas pautas sobre la teología? —Aproximadamente éstas: de be representarse siempre al dios como es realmente, ya sea en versos épicos o líricos o en la tragedia.
 
-El texto original griego se puede seguir en línea: https://artflsrv03.uchicago.edu/philologic4/Greek/navigate/390/3/24/1/
+El texto original griego se puede seguir en línea: [Ver texto original](https://artflsrv03.uchicago.edu/philologic4/Greek/navigate/390/3/24/1/)
 
 La traducción la seguimos del tomo de Gredos correspondiente (BGG 94, p. 138), pero con una ligera diferencia para hacer más literal la indicación que se quiere señalar en esta nota.
 
