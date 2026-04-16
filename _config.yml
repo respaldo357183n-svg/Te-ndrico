@@ -61,4 +61,5 @@ tag_archive:
 
 search: false
 
-markdown: kramdown
+kramdown:
+  input: GFM
