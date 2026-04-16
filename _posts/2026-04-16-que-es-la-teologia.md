@@ -99,7 +99,7 @@ si bien sería indigno de un hombre no buscar la ciencia que, por sí mismo, le 
 
 ni cabe considerar a ninguna otra (ciencia) más digna de estima que esta. Es, en efecto, la más divina y la más digna de estima y lo es, ella sola, doblemente. En efecto, la divina entre las ciencias es o bien aquella que poseyera la divinidad en grado sumo, o bien aquella que versara sobre lo divino. Pues bien, solamente en ella concurren ambas características: todos, en efecto, opinan que Dios es causa y principio, y tal ciencia la posee Dios, o solo él, o él en grado sumo. Y, ciertamente, todas las demás (ciencias) serán más necesarias que ella, pero ninguna es mejor. La posesión de esta ciencia ha de cambiarnos, en cierto sentido, a la actitud contraria (de la que corresponde) al estado inicial de las investigaciones. Y es que, como deciamos, todos comienzan maravillándose de que las cosas sucedan como suceden: así ocurre, por ejemplo, en relación con los autómatas de los teatros de marionetas [eso les pasa a los que no han visto la causa, o en relación con las revoluciones del sol, o con la inconmensurabilidad de la diagonal (a todos, en efecto, maravilla [a los que no han visto la causa] que algo no pueda medirse ni con la más pequeña de las medidas). Es preciso, sin embargo, que se imponga la actitud contraria y que es la mejor, según el refrán, como ocurre incluso en estos casos, una vez que se ha aprendido: nada, desde luego, maravillaría tanto a un geómetra como que la diagonal resultara conmensurable. Queda dicho, pues, cual es la naturaleza de la ciencia en cuya búsqueda andamos y cuál es el objetivo que ha de alcanzar la búsqueda y el proceso de investigación en su conjunto.
 
-El texto original griego se puede seguir en línea: https://artflsrv03.uchicago.edu/philologic4/Greek/navigate/57/1/7/
+El texto original griego se puede seguir en línea: [Ver texto original](https://artflsrv03.uchicago.edu/philologic4/Greek/navigate/57/1/7/)
 
 La traducción la seguimos del tomo de Gredos correspondiente (BGG 584, pp. 76-78).
 
@@ -113,12 +113,12 @@ La traducción la seguimos del tomo de Gredos correspondiente (BGG 584, pp. 76-7
 
 [^8]: Así, según conceptos como hierofanía y cosmización, de Mircea Eliade. Entre sus muchas obras, nombro como ejemplo de ellas las siguientes dos: Tratado de historia de las religiones. 2Vols. (Madrid: Cristiandad, 1974); Ídem, Historia de las creencias y las ideas religiosas. 4Vols. (Madrid: Cristiandad, 1980). En el blog se han publicado cuarto artículo donde se reseña una de sus obras principales: Lo sagrado y lo profano, Con los siguientes títulos:
 
-“Lo sagrado y lo profano 1: una revisita a la concepción del espacio sagrado y profano”: https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1432&action=edit
-“Lo sagrado y lo profano 2: tiempo sagrado”: https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1443&action=edit
-“Lo sagrado y lo profano 3: ethos y mnemosyne”: https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1451&action=edit
-“Lo sagrado y lo profano 4: historia como encyclopédie”: https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1477&action=edit
+“Lo sagrado y lo profano 1: una revisita a la concepción del espacio sagrado y profano”: [Leer](https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1432&action=edit) 
+“Lo sagrado y lo profano 2: tiempo sagrado”: [Leer](https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1443&action=edit)
+“Lo sagrado y lo profano 3: ethos y mnemosyne”: [Leer](https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1451&action=edit)
+“Lo sagrado y lo profano 4: historia como encyclopédie”: [Leer](https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1477&action=edit)
 
-Asimismo, en el blog he presentado una síntesis de su propuesta, en un artículo que lleva el título de: “Mircea Eliade y las formas de lo sagrado”, se puede leer en el siguiente enlace: https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1146&action=edit
+Asimismo, en el blog he presentado una síntesis de su propuesta, en un artículo que lleva el título de: “Mircea Eliade y las formas de lo sagrado”, se puede leer en el siguiente enlace: [Leer](https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1146&action=edit)
 
 [^9]: X. Zubiri, “El problema teologal del hombre”, Theologica Xaveriana 154 (2005), 507-517.
 
@@ -134,6 +134,6 @@ Asimismo, en el blog he presentado una síntesis de su propuesta, en un artícul
 
 [^15]: Una presentación de la religión como sistema semiótico, pero aplicado a la interpretación del cristianismo primitivo como religión, puede verse en: G. Theissen, La religión de los primeros cristianos (Salamanca: Sígueme, 2002), 13-35.
 
-Por otro lado, el concepto de sistema semiótico, aplicado a la cultura, proviene de la obra del antropólogo cultural Clifford Geertz. En otro artículo publicado en este blog he desarrollado la relación entre esta interpretación de la cultura como sistema semiótico, y su interferencia con la religión. El título del artículo es: “Clifford Geertz y la danza de las abejas: sobre la trasposición entre las categorías de religión y cultura como mundos simbólicos”, y se puede leer en el siguiente enlace: https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=603&action=edit
+Por otro lado, el concepto de sistema semiótico, aplicado a la cultura, proviene de la obra del antropólogo cultural Clifford Geertz. En otro artículo publicado en este blog he desarrollado la relación entre esta interpretación de la cultura como sistema semiótico, y su interferencia con la religión. El título del artículo es: “Clifford Geertz y la danza de las abejas: sobre la trasposición entre las categorías de religión y cultura como mundos simbólicos”, y se puede leer en el siguiente enlace: [Leer](https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=603&action=edit)
 
-[^16]: Me refiero a otro artículo publicado en este blog, titulado: “el logos spermatikos y la filosofía de la historia de Justino”, y que se puede leer en el siguiente enlace: https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1637&action=edit
+[^16]: Me refiero a otro artículo publicado en este blog, titulado: “el logos spermatikos y la filosofía de la historia de Justino”, y que se puede leer en el siguiente enlace: [Leer](https://bitacorabiblica715145048.wordpress.com/wp-admin/post.php?post=1637&action=edit)
