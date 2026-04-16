@@ -66,18 +66,18 @@ Es importante reconocer esta evolución para evitar lecturas fundamentalistas o 
 
 ## Bibliografía
 
-[1^]: Lewis, C. S. (2016). *El problema del dolor.* RIALP.
+[1^]:Lewis, C. S. (2016). *El problema del dolor.* RIALP.
 
-[2^]: Blanco Pérez, C. (2017). *Más allá de la cultura y de la religión.*
+[2^]:Blanco Pérez, C. (2017). *Más allá de la cultura y de la religión.*
 
-[3^]: Rueda, M. y Moreno, S. (1995). *Cosmos, hombre y sacralidad: lecturas dirigidas de antropología religiosa.* Abya-Yala.
+[3^]:Rueda, M. y Moreno, S. (1995). *Cosmos, hombre y sacralidad: lecturas dirigidas de antropología religiosa.* Abya-Yala.
 
-[4^]: Ardèvol Piera, E., Munilla Cabrillana, G., Cervelló Autuori, J., Gracia Alonso, F., & Martí i Pérez, J. (2004). *Antropología de la religión: Una aproximación interdisciplinar a las religiones antiguas y contemporáneas.* Universitat Oberta de Catalunya.
+[4^]:Ardèvol Piera, E., Munilla Cabrillana, G., Cervelló Autuori, J., Gracia Alonso, F., & Martí i Pérez, J. (2004). *Antropología de la religión: Una aproximación interdisciplinar a las religiones antiguas y contemporáneas.* Universitat Oberta de Catalunya.
 
-[5^]: Mateo Seco, L. (2016). *Dios, Uno y Trino.* Ediciones Universidad de Navarra.
+[5^]:Mateo Seco, L. (2016). *Dios, Uno y Trino.* Ediciones Universidad de Navarra.
 
-[6^]: Rodríguez, A. (2001). *La religión judía: historia y teología.* BAC.
+[6^]:Rodríguez, A. (2001). *La religión judía: historia y teología.* BAC.
 
-[7^]: Biblia de Jerusalén. (2019). Biblical and Archaeological School of Jerusalem.
+[7^]:Biblia de Jerusalén. (2019). Biblical and Archaeological School of Jerusalem.
 
 
