@@ -95,7 +95,7 @@ El primer teólogo cristiano que partió en su reflexión desde la premisa de un
 
 [^11]: En esto seguimos a: Roy A. Rappaport, Ritual and Religion in the Making of Humanity (Cambridge: CUP, 1999). Véase también: G. Theissen, La fe bíblica. Una perspectiva evolucionista (Estella [Navarra]: EVD, 2002).
 
-[^12] E. Cassirer, Antropología filosófica (México: FCE, 1967), 64-119.
+[^12]: E. Cassirer, Antropología filosófica (México: FCE, 1967), 64-119.
 
 [^13]: F. Stolz, Grundzüge der Religionswissenschaft (Göttingen: Vandenhoeck & Ruprecht, 1988), 79-147.
 
