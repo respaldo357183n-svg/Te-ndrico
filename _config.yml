@@ -61,3 +61,4 @@ tag_archive:
 
 search: false
 
+markdown: kramdown
