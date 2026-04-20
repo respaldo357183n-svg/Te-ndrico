@@ -1,3 +1,20 @@
 <link rel="icon" type="image/png" href="/favicon-teandrico.png">
 <link rel="shortcut icon" type="image/png" href="/favicon-teandrico.png">
 <link rel="apple-touch-icon" href="/favicon-teandrico.png">
+<link rel="icon" type="image/png" href="/favicon-teandrico.png">
+<link rel="shortcut icon" type="image/png" href="/favicon-teandrico.png">
+<link rel="apple-touch-icon" href="/favicon-teandrico.png">
+
+{% if page.header.og_image %}
+  <meta property="og:image" content="{{ page.header.og_image | absolute_url }}">
+{% elsif page.header.teaser %}
+  <meta property="og:image" content="{{ page.header.teaser | absolute_url }}">
+{% endif %}
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="article">
+{% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+{% endif %}
+{% if page.excerpt %}
+  <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200 }}">
+{% endif %}
