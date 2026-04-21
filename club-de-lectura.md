@@ -27,3 +27,29 @@ author_profile: true
 </div>
 </div>
 </div>
+
+<hr style="margin:3rem 0 2rem 0;">
+
+<h2>Historial de lecturas</h2>
+
+<div style="display:flex;flex-direction:column;gap:1.5rem;margin-top:1.5rem;">
+
+  <div style="display:flex;gap:1.5rem;align-items:center;padding:1rem;background:#f5f5f0;border:1px solid #e5e5e0;">
+    <img src="/imagenes/cartas-del-diablo-a-su-sobrino.jpg" alt="Cartas del diablo a su sobrino" style="width:60px;box-shadow:0 4px 12px rgba(0,0,0,0.2);flex-shrink:0;">
+    <div>
+      <h3 style="font-family:Georgia,serif;font-weight:normal;margin:0 0 0.2rem 0;font-size:1rem;">Cartas del diablo a su sobrino</h3>
+      <p style="color:#6b6b6b;margin:0 0 0.2rem 0;font-size:0.85rem;">C. S. Lewis</p>
+      <span style="font-size:0.75rem;background:#f5c842;color:#1a1a1a;padding:0.1rem 0.5rem;">Enero 2026</span>
+    </div>
+  </div>
+
+  <div style="display:flex;gap:1.5rem;align-items:center;padding:1rem;background:#f5f5f0;border:1px solid #e5e5e0;">
+    <img src="/imagenes/carta-a-un-religioso.png" alt="Carta a un religioso" style="width:60px;box-shadow:0 4px 12px rgba(0,0,0,0.2);flex-shrink:0;">
+    <div>
+      <h3 style="font-family:Georgia,serif;font-weight:normal;margin:0 0 0.2rem 0;font-size:1rem;">Carta a un religioso</h3>
+      <p style="color:#6b6b6b;margin:0 0 0.2rem 0;font-size:0.85rem;">Simone Weil</p>
+      <span style="font-size:0.75rem;background:#f5c842;color:#1a1a1a;padding:0.1rem 0.5rem;">Febrero 2026</span>
+    </div>
+  </div>
+
+</div>
