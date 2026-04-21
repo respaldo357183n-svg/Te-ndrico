@@ -9,8 +9,7 @@ author_profile: true
 <img src="/imagenes/libro-jesus-aproximacion-historica.jpg" alt="Jesús: Aproximación histórica" style="width:150px;box-shadow:0 8px 24px rgba(0,0,0,0.2);display:block;margin:0 auto;flex-shrink:0;">
 <div>
 <h2>Jesús: Aproximación histórica</h2>
-<h3>José Antonio Pagola</h3>
-
+<h3 style="margin-top:0.3rem;">José Antonio Pagola</h3>
   <p>Estamos leyendo juntos una de las obras más rigurosas y apasionantes sobre el Jesús histórico. Únete a nuestro grupo de WhatsApp y servidor en Discord para participar en los conversatorios.</p>
 <div style="margin:1.5rem 0;">
   <div style="display:flex;justify-content:space-between;margin-bottom:0.4rem;">
