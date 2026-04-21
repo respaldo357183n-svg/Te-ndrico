@@ -70,6 +70,7 @@ kramdown:
 comments:
   provider: "giscus"
   giscus:
+    repo: "estiben-alvarez/Teandrico"
     repo_id: "R_kgDOR6uirQ"
     category_name: "Announcements"
     category_id: "DIC_kwDOR6uirc4C7YVA"
