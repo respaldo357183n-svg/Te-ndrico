@@ -261,3 +261,10 @@ button.greedy-nav__toggle {
   box-shadow: 0 0 0 2px rgba(245, 200, 66, 0.3) !important;
   outline: none !important;
 }
+
+/* Club de lectura - columna en móvil */
+@media (max-width: 640px) {
+  .club-lectura-wrap {
+    flex-wrap: wrap !important;
+  }
+}
