@@ -49,7 +49,6 @@ defaults:
       show_date: true
       share: true
       show_tags: true
-      comments: true
       teaser: /imagenes/artículo-henoteismo.jpg
 
 favicon: /favicon-teandrico.png
@@ -67,13 +66,3 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-comments:
-  provider: "giscus"
-  giscus:
-    repo: "estiben-alvarez/Teandrico"
-    repo_id: "R_kgDOR6uirQ"
-    category_name: "Announcements"
-    category_id: "DIC_kwDOR6uirc4C7YVA"
-    discussion_term: "url"
-    reactions_enabled: "1"
-    theme: "light"
