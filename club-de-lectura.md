@@ -5,7 +5,7 @@ permalink: /club-de-lectura/
 author_profile: true
 ---
 <div style="display:flex;gap:2rem;align-items:flex-start;flex-wrap:wrap;margin-top:1rem;">
-<img src="/imagenes/libro-jesus-aproximacion-historica.jpg" alt="Jesús: Aproximación histórica" style="width:150px;box-shadow:0 8px 24px rgba(0,0,0,0.2);flex-shrink:0;">
+<img src="/imagenes/libro-jesus-aproximacion-historica.jpg" alt="Jesús: Aproximación histórica" style="width:150px;box-shadow:0 8px 24px rgba(0,0,0,0.2);display:block;margin:0 auto;">
 <div>
 <h2>Jesús: Aproximación histórica</h2>
 <h3>José Antonio Pagola</h3>
