@@ -31,6 +31,11 @@ author_profile: true
 </div>
 </div>
 
+<div style="margin-top:2rem;text-align:center;">
+  <h3 style="font-family:Georgia,serif;font-weight:normal;margin-bottom:1rem;">Próxima sesión</h3>
+  <img src="/imagenes/flyer-sesion-club.jpg" alt="Próxima sesión del Club de Lectura" style="max-width:400px;width:100%;box-shadow:0 8px 24px rgba(0,0,0,0.15);">
+</div>
+
 <h2 style="margin-top:3rem;">Historial de lecturas</h2>
 
 <div style="display:flex;flex-direction:column;gap:1.5rem;margin-top:1.5rem;">
