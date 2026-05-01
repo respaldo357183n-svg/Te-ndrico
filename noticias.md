@@ -5,8 +5,6 @@ permalink: /noticias/
 author_profile: false
 classes: wide
 ---
-
-{% assign noticias = site.posts | where_exp: "post", "post.categories contains 'Noticias'" %}
-{% for post in noticias %}
-  {% include archive-single.html type="list" %}
+{% for post in site.noticias %}
+  {% include archive-single.html %}
 {% endfor %}
