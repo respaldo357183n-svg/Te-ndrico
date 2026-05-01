@@ -11,8 +11,8 @@ layout: single
 author_profile: false
 share: true
 header:
-  teaser: /imagenes/foto-coloquio-socializacion.jpg
-  og_image: /imagenes/foto-coloquio-socializacion.jpg
+  teaser: /teandrico/imagenes/foto-coloquio-socializacion.jpg
+  og_image: /teandrico/imagenes/foto-coloquio-socializacion.jpg
 ---
 ![Coloquio Internacional de Teología](/imagenes/foto-coloquio-socializacion.jpg)
 *Fotografía de @soycatolicadelnorte vía Instagram*
