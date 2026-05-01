@@ -29,6 +29,11 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
 
+collections:
+  noticias:
+    output: true
+    permalink: /noticias/:name/
+
 paginate: 5
 paginate_path: "/articulos/page:num/"
 permalink: /articulos/:title/
@@ -50,6 +55,14 @@ defaults:
       share: true
       show_tags: true
       teaser: /imagenes/artículo-henoteismo.jpg
+  - scope:
+      path: ""
+      type: noticias
+    values:
+      author_profile: false
+      show_date: true
+      share: true
+      show_tags: true  
 
 favicon: /favicon-teandrico.png
 
