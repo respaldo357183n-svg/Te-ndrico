@@ -13,6 +13,7 @@ header:
   teaser: /imagenes/foto-coloquio-socializacion.jpg
 ---
 ![Coloquio Internacional de Teología](/imagenes/foto-coloquio-socializacion.jpg)
+*Fotografía de @soycatolicadelnorte vía Instagram*
 
 <p style="font-size:0.85rem;color:#6b6b6b;border-left:3px solid #f5c842;padding-left:0.8rem;margin-bottom:2rem;">Por <strong>Estiben Álvarez</strong></p>
 
