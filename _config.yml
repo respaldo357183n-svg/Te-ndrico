@@ -62,7 +62,8 @@ defaults:
       author_profile: false
       show_date: true
       share: true
-      show_tags: true  
+      show_tags: true
+      teaser: /imagenes/coloquio-internacional.jpeg
 
 favicon: /favicon-teandrico.png
 
