@@ -14,11 +14,12 @@ excerpt: "Un espacio dedicado a la divulgación teológica a partir de la reflex
 title: "Haciendo teología en el continente digital"
 ---
 
-<h3 class="archive__subtitle">Artículos recientes</h3>
+<h3 class="archive__subtitle">Lo más reciente</h3>
 
 <div style="position:relative;overflow:hidden;margin-bottom:3rem;">
   <div id="carrusel" style="display:flex;transition:transform 0.5s ease;will-change:transform;">
-    {% for post in site.posts %}
+    {% assign todo = site.posts | concat: site.noticias | sort: 'date' | reverse %}
+    {% for post in todo %}
     <div style="min-width:100%;box-sizing:border-box;padding:0 0.5rem;">
       <div style="display:flex;gap:1.5rem;align-items:flex-start;background:#fff;border:1px solid #e5e5e0;padding:1.5rem;">
         {% if post.header.teaser %}
@@ -27,6 +28,11 @@ title: "Haciendo teología en el continente digital"
         </a>
         {% endif %}
         <div>
+          {% if post.categories %}
+          <div style="font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;background:#f5c842;color:#1a1a1a;display:inline-block;padding:0.15rem 0.5rem;margin-bottom:0.6rem;">{{ post.categories | first }}</div>
+          {% else %}
+          <div style="font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;background:#f5c842;color:#1a1a1a;display:inline-block;padding:0.15rem 0.5rem;margin-bottom:0.6rem;">Noticias</div>
+          {% endif %}
           <h3 style="font-family:Georgia,serif;font-size:1.2rem;font-weight:normal;margin:0 0 0.5rem 0;">
             <a href="{{ post.url }}" style="color:#1a1a1a;text-decoration:none;">{{ post.title }}</a>
           </h3>
@@ -44,7 +50,7 @@ title: "Haciendo teología en el continente digital"
 
 <script>
   var actual = 0;
-  var total = {{ site.posts.size }};
+  var total = {{ site.posts.size | plus: site.noticias.size }};
 
   function moverCarrusel(dir) {
     actual = (actual + dir + total) % total;
