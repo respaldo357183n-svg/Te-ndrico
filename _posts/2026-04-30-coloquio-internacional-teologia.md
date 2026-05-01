@@ -29,4 +29,4 @@ A los interesados se les convoca a enviar sus propuestas de trabajo, inscritas e
 - **Mesa 3.** Diálogo ecuménico, interreligioso e intercultural
 - **Mesa 4.** Pastoral, educación y evangelización en el mundo digital
 
-La información completa acerca de las mesas temáticas, la metodología del coloquio, las orientaciones para el envío y la escritura de las ponencias, y las fechas a tener en cuenta, se puede encontrar en el [documento oficial](/archivos/Lineamientos-para-ponentes-Coloquio-Teología-2026.pdf) o a través del correo [coloquioteored@ucn.edu.co](mailto:coloquioteored@ucn.edu.co).
+La información completa acerca de las mesas temáticas, la metodología del coloquio, las orientaciones para el envío y la escritura de las ponencias, y las fechas a tener en cuenta, se puede encontrar en el [documento oficial](/archivos/Lineamientos-para-ponentes-Coloquio-Teologia-2026.pdf) o a través del correo [coloquioteored@ucn.edu.co](mailto:coloquioteored@ucn.edu.co).
