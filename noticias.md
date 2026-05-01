@@ -5,6 +5,6 @@ permalink: /noticias/
 author_profile: false
 classes: wide
 ---
-{% for post in site.noticias %}
-  {% include archive-single.html %}
-{% endfor %}
+<div id="lista-noticias">
+{% include archive-list-noticias.html %}
+</div>
