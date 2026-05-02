@@ -8,7 +8,7 @@ classes: wide
 
 <input type="text" id="buscador" placeholder="Buscar artículos..." onkeyup="filtrar()" style="width:100%;padding:0.8rem 1rem;border:1px solid #e5e5e0;font-size:1rem;margin-bottom:2rem;font-family:'Helvetica Neue',Arial,sans-serif;outline:none;">
 
-<div id="lista-articulos" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;">
+<div id="lista-articulos" style="display:grid;grid-template-columns:1fr;gap:1.5rem;">
 {% include archive-list-custom.html %}
 </div>
 
